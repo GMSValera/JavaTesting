@@ -5,6 +5,7 @@ public class lesson2 {
     public static void main(String[] args) {
 
         String[][] arr = new String[][]{{"1", "2", "3", "4"}, {"2", "3", "4", "5"}, {"3", "4", "5", "6"}, {"4", "5", "6", "7"}};
+
         try {
             try {
                 int sum = sumArray(arr);

@@ -15,7 +15,6 @@ public class MyArrayDataException extends Exception {
     MyArrayDataException(int x, int y) {
         this.x = x;
         this.y = y;
-
     }
 
 }
